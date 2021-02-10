@@ -1,5 +1,7 @@
 [package]
 name = "dcs"
+description = "Soon to be a simple Distributed Control System implementation"
+license = "MIT"
 version = "0.1.0"
 authors = ["kolektiv <andrew@xyncro.com>"]
 edition = "2018"
