@@ -8,3 +8,10 @@ edition = "2018"
 anyhow = "1.0"
 async-trait = "0.1"
 dcs = { path = "../dcs" }
+embedded-hal = "0.2.4"
+
+[dev-dependencies]
+tokio = { version = "1.2", features = ["full"] }
+
+[target.'cfg(target_os = "linux")'.dependencies]
+linux-embedded-hal = "0.3.0"
