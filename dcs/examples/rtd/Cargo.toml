@@ -1,5 +1,5 @@
 [package]
-name = "test1"
+name = "rtd"
 version = "0.1.0"
 authors = ["kolektiv <andrew@xyncro.com>"]
 edition = "2018"

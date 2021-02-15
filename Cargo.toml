@@ -1,4 +1,6 @@
 [workspace]
 members = [
     "dcs",
+    "dcs-contrib-hue",
+    "dcs-contrib-sequent-rtd",
 ]
